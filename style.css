@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(82, 143, 230);
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+b{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+label{
+    font-family:cursive;
+}
